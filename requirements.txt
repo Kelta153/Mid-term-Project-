@@ -1,4 +1,10 @@
 pandas
 matplotlib
-seaborn
 streamlit
+joblib
+plotly
+streamlit-option-menu
+numerize
+streamlit-extras
+statsmodels
+python-dateutil
